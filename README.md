@@ -36,7 +36,7 @@ Os testes Cypress cobrem todos os fluxos principais e cenários de borda da func
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nextjs-cypress-login.git
+   git clone https://github.com/PedroAugSouza/form-cypress.git
    cd nextjs-cypress-login
    ```
 
